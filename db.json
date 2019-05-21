@@ -1,0 +1,13 @@
+{
+"posts":[
+  {
+    
+    "name": "Sophia Wei",
+    "time": "1.10pm",
+    "late": false,
+    "gender": "F",
+    "IsClass": true,
+    "location": "S434"
+  }
+  ]
+}
